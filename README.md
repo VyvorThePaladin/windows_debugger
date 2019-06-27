@@ -9,6 +9,6 @@
 + `bp_set()` -> soft breakpoints, `bp_set_hw()` -> hard breakpoints, `bp_set_mem()` -> memory breakpoints
 + change the function in the test harness to any one of the functions above, with valid parameters
 
-# Use cases
+## Use cases
 + Purely educational
 + Relevant circa 2009
